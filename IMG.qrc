@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/anf.gif</file>
+        <file>IMG/anf2.jpg</file>
+        <file>IMG/anf21.jpg</file>
+        <file>IMG/broadcast-towers-timelapse_ecaqh1fwe__F0000_1600x.png</file>
+        <file>IMG/image_icon_arrow_84_pic_512x512.png</file>
+        <file>IMG/KSN-Tower-WarrenKunkle.jpg</file>
+        <file>IMG/licfile.png</file>
+        <file>IMG/licfileexport.png</file>
+        <file>IMG/photo-1533664488202-6af66d26c44a.jfif</file>
+        <file>IMG/wp2209411.jpg</file>
+        <file>IMG/wp2209431.jpg</file>
+        <file>IMG/wp2209431_1.jpg</file>
+        <file>IMG/xlsxfile.png</file>
+        <file>IMG/xlsxfileexport.png</file>
+    </qresource>
+</RCC>
